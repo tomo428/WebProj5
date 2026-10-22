@@ -16,7 +16,7 @@ public class HelloStrutsDTO {
 	public String getUserName() {
 		return userName;
 	}
-	public void setUserId(String userId) {
+	public void setUserName(String userName) {
 		this.userName = userName;
 	}
 
